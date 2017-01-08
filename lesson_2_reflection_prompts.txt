@@ -5,6 +5,8 @@ creates .git file, to start git process
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+great holding area before a commit
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
