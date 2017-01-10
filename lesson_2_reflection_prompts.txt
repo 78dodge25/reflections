@@ -19,6 +19,8 @@ makeing multiple versions of you project.  branches will help keep track
 
 How do the diagrams help you visualize the branch structure?
 
+keeps the changes in perspective
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
