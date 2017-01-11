@@ -24,5 +24,7 @@ keeps the changes in perspective
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+make 2 versions into one.  to show how it would come togeather and how to track changes
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
