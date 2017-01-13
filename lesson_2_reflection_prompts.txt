@@ -28,3 +28,11 @@ make 2 versions into one.  to show how it would come togeather and how to track 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+auto
+pros - save time, simplify merging
+cons - auto may p/u wrong changes, would make git way to large to auto fix conflicts
+
+manual
+pros - complete control
+cons - time consuming 
